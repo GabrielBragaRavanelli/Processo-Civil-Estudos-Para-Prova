@@ -21,3 +21,13 @@ Pressupostos Processuais
     - Litispendencia
     - Coisa julgada
     - Prerempção
+
+
+Competencia: A juridiçâo é ditribuida em diversos orgãos judiciais e, a jurisdiçâo disserta sobre determinados assusntos e terceiros
+
+Foro Juizo
+- Existem 2
+  - Relativo
+    - Interesse das partes, na qual pode ser alterada. Não Possui reconhecimento de oficio do juiz
+  - Absoluto
+    - Competencia de ordem publica, na qual pode não pode ser moficada. Possui um reconhecimento de oficio de juiz
