@@ -44,4 +44,11 @@ DA AÇÂO
       - LEGITIMAÇÂO EXTRAORDINARIA
         - é possível que alguém pleiteie (postule) em nome próprio direito de outrem (de terceiro), nos casos expressamente previstos (autorizados) em lei. A parte defendendo direito de outro.
 
+ELEMNTOS DA AÇÂO
+- PARTES: Autor (sujeito ativo) é aquele que inicia o processo por meio de um pedido feito ao estado/juiz. Também tem o réu (sujeito passivo) que é o invidivio que o autor está contra e, tem a necessidade de se defender.
+- PEDIDO: É a petiçâo inicial que dever estar expresso o que o autor pretende do estado contra o requerido
+  - Imediato:o pedido feito ao juiz para que este desenvolva a atividade jurisdicional para que possa se alcançar o bem (objeto) pretendido
+  - Mediato:é o próprio bem objeto da demanda
 
+ESPECÍES
+-
