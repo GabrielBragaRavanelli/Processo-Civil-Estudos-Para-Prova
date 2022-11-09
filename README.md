@@ -31,3 +31,12 @@ Foro Juizo
     - Interesse das partes, na qual pode ser alterada. Não Possui reconhecimento de oficio do juiz
   - Absoluto
     - Competencia de ordem publica, na qual pode não pode ser moficada. Possui um reconhecimento de oficio de juiz
+    
+DA AÇÂO
+- A açâo é um mecanismo judiciario que tem a funçâo de responder, ou seja, é um direito subjetivo feito pelo estado, na qual ativa a maquina judiciario para a pratica das decisoes judiciais.
+  - 2 Caracteristicas para caracterizar açâo
+    - Interesse de agir
+      - O individuo tem que mostar a necessidade de invocar a tutela jurisprudencial, ou seja, demonstrar a vontade de recorrer ao poder judiciario para adquirir o bem desejado
+    - Legitimidade
+      - É a parte legitima que faz pedido contra outra, que temabem dever ser legitima para cumprir a obrigaçâo
+
