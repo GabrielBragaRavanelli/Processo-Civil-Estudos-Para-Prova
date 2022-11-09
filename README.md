@@ -38,7 +38,7 @@ DA AÇÂO
     - Interesse de agir
       - O individuo tem que mostar a necessidade de invocar a tutela jurisprudencial, ou seja, demonstrar a vontade de recorrer ao poder judiciario para adquirir o bem desejado
     - Legitimidade
-      - É a parte legitima que faz pedido contra outra, que temabem dever ser legitima para cumprir a obrigaçâo
+      - É a parte legitima que faz pedido contra outra, que tambem deve ser legitima para cumprir a obrigaçâo
       - LEGITIMAÇÂO ORDINARIA
         - Pois a parte deve vir a juízo para defender direito próprio e não alheio.
       - LEGITIMAÇÂO EXTRAORDINARIA
