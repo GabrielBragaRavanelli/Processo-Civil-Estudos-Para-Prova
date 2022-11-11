@@ -53,9 +53,9 @@ Pressupostos Processuais: São requsitos que precisam estar presentes para que o
  - Oportunidade de citação; A citaçâo poder ser feita no lugar onde o réu esta
 
 Espécies
-- Pelo correio - art.247 e 248
-- Oficial de justiça - art.249 e 251
-- Citaçâo por edital - art.256 e 259
+- Pelo correio - art.247 a 248
+- Oficial de justiça - art.249 a 251
+- Citaçâo por edital - art.256 a 259
 
 Intimação - art.275 e 269
 - É uma forma de comunicaçâo para as partes, pericias, etc, para que eles fiquem cientes dos atos do processo
@@ -65,6 +65,9 @@ Intimação - art.275 e 269
   - Pelo correio - ar.274
   - Por mandato - art.275
   - Intimação por edital 
+
+Nulidades Processuais - art. 267 a 283
+
 
 
 
