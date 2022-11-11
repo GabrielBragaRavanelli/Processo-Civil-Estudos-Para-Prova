@@ -68,6 +68,15 @@ Intimação - art.275 e 269
 
 Nulidades Processuais - art. 267 a 283
 
+Distribuição e registro de processos - art.284 a 290
+
+Formaçâo, suspensâo e extinçâo do processo civil - art. 312 a 317
+- Propositura da Demanda - art. 312
+- Suspensão do processo - art.313 a 315
+
+Da extinçâo do processo do conhecimento - art.316 a 317
+- Sem resolução do merito, por sentença determinada - art.485
+- Com resolução do merito, por sentença determinada - art.487
 
 
 
