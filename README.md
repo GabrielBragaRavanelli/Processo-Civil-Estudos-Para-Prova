@@ -46,7 +46,7 @@ Pressupostos Processuais: São requsitos que precisam estar presentes para que o
 - Da negatividade
   - Litisprudencia
   - Coisa julgada
-  - 
+  - Preremção
 
 
 
