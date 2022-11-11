@@ -10,11 +10,11 @@ Da açâo
 - Mecanismo judiciario na qual tem a funçâo de responder, ou seja, uma maquina judiciaria que pratica decisoês judiciais 
 - A açâo possui 2 caracteristicas
   - Interesse de agir
-    -As partes precisam mostrar a necessidade querer a açâo da tutela jurisprudencial, ou seja, demontrar que o poder judicario precisa entrar em açâo para alcançar o objeto desejado
+    - As partes precisam mostrar a necessidade querer a açâo da tutela jurisprudencial, ou seja, demontrar que o poder judicario precisa entrar em açâo para alcançar o objeto desejado
   - Legitimidade
-    -A parte legitima contra a outra, que tambem precisar ser para fazer as suas obrigaçôes
-      -Ordinaria: Deve ligar apenas para os seus direitos e nâo os de outrem
-      -Extraordinaria: Pode proteger os direitos de outrem, entretanto, precisa estar escrita em lei.
+    - A parte legitima contra a outra, que tambem precisar ser para fazer as suas obrigaçôes
+      - Ordinaria: Deve ligar apenas para os seus direitos e nâo os de outrem
+      - Extraordinaria: Pode proteger os direitos de outrem, entretanto, precisa estar escrita em lei.
       
 Espécies 
 - Deve ser clara, certa, ou seja, dever ser precisa, além de ser determina, com certa qualidade e quantidade
