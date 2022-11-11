@@ -44,6 +44,9 @@ Pressupostos Processuais: São requsitos que precisam estar presentes para que o
   - Juizo competente e juiz imparcial
   - Petiçâo inicial que precisa seguir os requisitos do art.319 do cpc
 - Da negatividade
+  - Litisprudencia
+  - Coisa julgada
+  - 
 
 
 
