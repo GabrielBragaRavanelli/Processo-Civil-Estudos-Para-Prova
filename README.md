@@ -8,7 +8,7 @@ Foro de juizo
 
 Da açâo
 - Mecanismo judiciario na qual tem a funçâo de responder, ou seja, uma maquina judiciaria que pratica decisoês judiciais 
-- A açâo possui 2 caracteristicas
+- A açâo possui 2 caracteristicas:
   - Interesse de agir
     - As partes precisam mostrar a necessidade querer a açâo da tutela jurisprudencial, ou seja, demontrar que o poder judicario precisa entrar em açâo para alcançar o objeto desejado
   - Legitimidade
@@ -46,7 +46,7 @@ Pressupostos Processuais: São requsitos que precisam estar presentes para que o
 - Da negatividade
   - Litisprudencia
   - Coisa julgada
-  - Preremção
+  - Prerempção
 
 
 
