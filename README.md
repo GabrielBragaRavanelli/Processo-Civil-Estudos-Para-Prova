@@ -1,6 +1,6 @@
 # Processo-Civil-Estudos-Para-Prova
 
-Competencia: Jurisdiçâo é divida em diversos orgaoes do judiciario e, a jurisdiçâo abrange diversos assuntos e terceiros
+Competencia: Jurisdiçâo é divida em diversos orgâos do judiciario e, a jurisdiçâo abrange diversos assuntos e terceiros
 
 Foro de juizo
 - Relativo: Competencia de ordem publica, qual nao pode ser alterda, além de ser reconhecida de ofico pelo juiz
@@ -36,12 +36,14 @@ Fase de Cumprimento da decisâo: Caso as partes nâo entrem em uma acordo, o Est
 
 Pressupostos Processuais: São requsitos que precisam estar presentes para que o processo seja valido
 - Da existencia
-  - Jurisdiçâo:
-  - Demanda:
-  - Citaçao:
+  - Jurisdiçâo: Precisar ser feita por um juiz que estja em posse e nâo por um fora de sua posiçâo
+  - Demanda: O autor precisa fazer uma provocaçâo com pedido para que seja feita o julgamento do juiz
+  - Capaciade Postulatoria: Art. 104
+  - Citaçâo: É o chamamento do requerido para se defender do pedido do autor
 - Da Validade
   - Juizo competente e juiz imparcial
   - Petiçâo inicial que precisa seguir os requisitos do art.319 do cpc
+- Da negatividade
 
 
 
