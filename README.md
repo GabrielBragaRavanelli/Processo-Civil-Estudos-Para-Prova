@@ -47,6 +47,20 @@ Pressupostos Processuais: São requsitos que precisam estar presentes para que o
   - Litisprudencia
   - Coisa julgada
   - Prerempção
+  
+ Comunicaçâo do atos processuais
+ - Citaçâo: É o chamamento deo réu para o processo
+ - Oportunidade de citação; A citaçâo poder ser feita no lugar onde o réu esta
+
+Espécies
+- Pelo correio - art.247 e 248
+- Oficial de justiça - art.249 e 251
+- Citaçâo por edital - art.256 e 259
+
+Intimação - art.275 e 269
+- formas de intimação
+
+
 
 
 
