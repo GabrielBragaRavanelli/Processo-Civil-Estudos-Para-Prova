@@ -28,11 +28,11 @@ Elementos da açâo
 - Causa de pedir proxima: Falar os motivos, porem, apenas o motivos principais
 
 Processo: É uma funçâo do Estado que tem como funçâo resolver conflitos e , ou seja, fazer que ande adiante
-Fase postulatoria: O autor apresenta provas, enquanto o requerido precisa se denfender, além de audiencias de mediaçÂO E conciliaçâo
-Fase de sarceamento e organizaçâo de processos: Juiz julga processos pendentes, defesa do ônus, criaçâo de audiencias de julgamento e introdutoria para a criaçâo de novas provas e, tambem o juiz pode julgar total ou parcialmente as provas do autor
-Fase Instrutoria: Fase na qual sâo apresentadas provas orais e tecnicas, além de pericias e testemunhas
-Fase Decisoria: O estado/juiz pratica a decisâo judicial com base nos direitos do caso concreto
-Fase de Cumprimento da decisâo: Caso as partes nâo entrem em uma acordo, o Estado/ juiz cumprirá a decisâo mesmo que tenha que usar a força
+- Fase postulatoria: O autor apresenta provas, enquanto o requerido precisa se denfender, além de audiencias de mediaçÂO E conciliaçâo
+- Fase de sarceamento e organizaçâo de processos: Juiz julga processos pendentes, defesa do ônus, criaçâo de audiencias de julgamento e introdutoria para a criaçâo de novas provas e, tambem o juiz pode julgar total ou parcialmente as provas do autor
+- Fase Instrutoria: Fase na qual sâo apresentadas provas orais e tecnicas, além de pericias e testemunhas
+- Fase Decisoria: O estado/juiz pratica a decisâo judicial com base nos direitos do caso concreto
+- Fase de Cumprimento da decisâo: Caso as partes nâo entrem em uma acordo, o Estado/ juiz cumprirá a decisâo mesmo que tenha que usar a força
 
 Pressupostos Processuais: São requsitos que precisam estar presentes para que o processo seja valido
 - Da existencia
