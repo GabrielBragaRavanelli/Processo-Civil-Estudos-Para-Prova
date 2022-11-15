@@ -7,7 +7,7 @@ Foro de juizo
 - Absoluta: Interesse das partes, pode ser alterado, além de nâo ser reconhecido de ofico pelo juiz
 
 Da açâo
-- Mecanismo judiciario na qual tem a funçâo de responder, ou seja, uma maquina judiciaria que pratica decisoês judiciais 
+- Mecanismo judiciario na qual tem a funçâo de responder, ou seja, uma maquina judiciaria que pratica decisões judiciais 
 - A açâo possui 2 caracteristicas:
   - Interesse de agir
     - As partes precisam mostrar a necessidade querer a açâo da tutela jurisprudencial, ou seja, demontrar que o poder judicario precisa entrar em açâo para alcançar o objeto desejado
@@ -20,7 +20,7 @@ Espécies
 - Deve ser clara, certa, ou seja, dever ser precisa, além de ser determina, com certa qualidade e quantidade
 
 Elementos da açâo
-- Das partes: Apresenta o autor que envia uma pedido ao estato, álem do réu, na qual o autor está contra e, portanto, ele poderá se defender
+- Das partes: Apresenta o autor que envia uma pedido ao estado, álem do réu, na qual o autor está contra e, portanto, ele poderá se defender
 - Pedido: Uma petiçâo inicial, na qual precisa ser expressa o motivo do autor ao Estado
   - Mediato: Feito ao juiz para que ele chegue ao objeto desejado
   - Imediato: O objeto do pedido
