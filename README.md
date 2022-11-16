@@ -89,13 +89,20 @@ Prazos
 - Classificação dos prazos
   - Da origem
     - Legais
+      - Fixada pela lei ou judicial. Fixadas pelo juiz, na qual está presente em atos complexos
     - Proprias
+      - Caso sejam descumpridas, criara a preclusão temporal, ou seja, não podem respoder por atos posteriores
     - Improprias
+      - Não possui a criação da preclusão e, pode respoder por atos posteriores
     - Comum
+      - As duas partes do processos tem que estar de acordo
 - Preclusão
   - Preclusão Temporal
+    - Perda da fauldade judicial, pois não foi cumprida no tempo determinado
   - Preclusão Logica
+    - Não poussi ligação entre os atos processuais e atos anteriores
   - Preclusão consumativa
+    - Quando praticada uma vez não poder ser paraticada novamente
 
 
 
