@@ -95,7 +95,7 @@ Prazos
 - Preclusão
   - Preclusão Temporal
   - Preclusão Logica
-  - Preclusão consmativa
+  - Preclusão consumativa
 
 
 
