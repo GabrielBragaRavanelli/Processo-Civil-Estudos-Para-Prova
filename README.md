@@ -56,7 +56,36 @@ Pressuposto Processuais
   --
 Atos processuais
 - Citação: chamamento do reu para o processo
-- Citrção proxima: pode ser feita aonde o reu esta
+- Oportunidade de citação: pode ser feita aonde o reu esta
+ 
+Espécies
+
+Pelo correio - art.247 a 248
+Oficial de justiça - art.249 a 251
+Citaçâo por edital - art.256 a 259
+Intimação - art.275 e 269
+
+É uma forma de comunicaçâo para as partes, pericias, etc, para que eles fiquem cientes dos atos do processo
+Formas de intimação
+Por meio eletronico - art. 270
+Pela imprensa - art.272 e 273
+Pelo correio - ar.274
+Por mandato - art.275
+Intimação por edital
+Nulidades Processuais - art. 267 a 283
+
+Distribuição e registro de processos - art.284 a 290
+
+Formaçâo, suspensâo e extinçâo do processo civil - art. 312 a 317
+
+Propositura da Demanda - art. 312
+Suspensão do processo - art.313 a 315
+Da extinçâo do processo do conhecimento - art.316 a 317
+
+Sem resolução do merito, por sentença determinada - art.485
+Com resolução do merito, por sentença determinada - art.487
+
+
 
   
 
