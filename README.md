@@ -85,6 +85,31 @@ Da extinçâo do processo do conhecimento - art.316 a 317
 Sem resolução do merito, por sentença determinada - art.485
 Com resolução do merito, por sentença determinada - art.487
 
+Principio da sucumbencia
+- O vencido paga os custos e despezas do processo
+
+Sucumbencia reciproca
+- OS custos e despezas são distribuidos igualmente entre as partes 
+
+Atos processuias 
+- declaração de vontade para a criação, modificação e extinção de sistemas processuais 
+
+Classificação de atos processuais
+- Ds partes: Efeito imediato
+  - Declaração unilateral de vontade: Manifestação da petição inicial do autor e a defesa do reu
+  - Declaração bilateral de vontade: Um acordso entre os litigantes
+
+Prazos
+- Quanto a origem: legais: Fixados pela lei e judicias. Fixada lepo juiz em casos de atos complexos
+- Proprios: Caso recusados, criam a preclusão temporal, impossibilizando a pratica de ato posteriormente
+- Impropria: Não cria a preclusão e Possibilita a pratica de atos posteriores
+- Comuns: Praticados pelas duas partes
+
+Preclusão:
+- Preclusão temporal: Perda da faculdade processual que não foi praticada no prazo determinado
+- Preclusão  lógica:  Falta ligamento de entre atos processuais e atos anteriormente
+- Preclusão Consumativa: Quando for praticada, não podera ser praticada novamente
+
 
 
   
