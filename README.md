@@ -78,7 +78,7 @@ Da extinçâo do processo do conhecimento - art.316 a 317
 - Sem resolução do merito, por sentença determinada - art.485
 - Com resolução do merito, por sentença determinada - art.487
 
-Principio a sucumbencia
+Principio da sucumbencia
 Principio da sucumbencia 
 Atos processuais:
 Classificação dos atos processuais
