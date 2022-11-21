@@ -54,7 +54,11 @@ Pressuposto Processuais
   - Litisprudencia
   - Coisa julgada
   --
+Atos processuais
+- Citação: chamamento do reu para o processo
+- Citrção proxima: pode ser feita aonde o reu esta
 
+  
 
 
 
