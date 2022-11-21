@@ -49,7 +49,7 @@ Pressupostos Processuais: São requsitos que precisam estar presentes para que o
   - Prerempção
   
  Comunicaçâo do atos processuais
- - Citaçâo: É o chamamento deo réu para o processo
+ - Citaçâo: É o chamamento do réu para o processo
  - Oportunidade de citação; A citaçâo poder ser feita no lugar onde o réu esta
 
 Espécies
